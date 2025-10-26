@@ -20,7 +20,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 Application Preview
 
-<img width="1408" height="782" alt="Roman Numeral Converter Interface" src="https://github.com/user-attachments/assets/14cc1aea-8840-4049-94b3-394b8cb83553" />
+<img width="1031" height="1133" alt="image" src="https://github.com/user-attachments/assets/3daed90e-8bf8-4779-8957-84eb186b75e6" />
 
 Live Demo: [Your Live Demo Link Here]
 
