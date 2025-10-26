@@ -68,12 +68,12 @@ Live Demo: [Your Live Demo Link Here]
 
 ### 1️⃣ Clone this repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Building-a-Decimal-to-Binary-Converter.git
+git clone git@github.com:acheronx0577/JavaScript-Build-a-Roman-Numeral-Converter-Project.git
 ```
 
 ### 2️⃣ Open the project folder
 ```
-cd JavaScript-Building-a-Decimal-to-Binary-Converter
+cd JavaScript-Build-a-Roman-Numeral-Converter-Project
 ```
 
 ### 3️⃣ Run the file
