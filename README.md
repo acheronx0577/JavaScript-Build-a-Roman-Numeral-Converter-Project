@@ -20,7 +20,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 Application Preview
 
-<img width="1031" height="1133" alt="image" src="https://github.com/user-attachments/assets/3daed90e-8bf8-4779-8957-84eb186b75e6" />
+<img width="1065" height="1191" alt="image" src="https://github.com/user-attachments/assets/72f98b60-7ca6-4469-bc9f-7abf7c7f6330" />
 
 Live Demo: https://acheronx0577.github.io/JavaScript-Build-a-Roman-Numeral-Converter-Project
 
