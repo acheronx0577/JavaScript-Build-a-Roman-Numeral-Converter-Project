@@ -26,61 +26,6 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Build-a-Roman-Numeral-Conve
 
 ---
 
-## ✅ Features
-
-1. **🔢 Number Conversion**
-   - Convert decimal numbers to Roman numerals (1-3999)
-   - Real-time conversion with instant results
-   - Clean, elegant Roman numeral output
-   - Support for classical Roman numeral rules
-
-2. **🎨 Gradient Magic Design**
-   - Beautiful gradient animations and floating effects
-   - Glass morphism design with backdrop blur
-   - Smooth transitions and hover animations
-   - Professional, modern interface
-
-3. **📱 Responsive UI/UX**
-   - Fully responsive design for all devices
-   - Mobile-optimized layout and interactions
-   - Accessible design patterns
-   - Cross-browser compatibility
-
-4. **⌨️ User Experience**
-   - Intuitive input validation with clear error messages
-   - Keyboard support (Enter key conversion)
-   - Visual feedback for success and error states
-   - Particle background effects for enhanced aesthetics
-
----
-
-## 🧩 Project Files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Application structure and semantic markup |
-| `script.js` | Conversion logic and validation system ⚙️ |
-| `styles.css` | Modern gradient styling with CSS variables 🎨 |
-
----
-
-## 🧰 Installation & Usage
-
-### 1️⃣ Clone this repo
-```
-git clone git@github.com:acheronx0577/JavaScript-Build-a-Roman-Numeral-Converter-Project.git
-```
-
-### 2️⃣ Open the project folder
-```
-cd JavaScript-Build-a-Roman-Numeral-Converter-Project
-```
-
-### 3️⃣ Run the file
-Just open `index.html` in your favorite browser 🌐 and start playing!
-
----
-
 ## 🎮 How to Use
 
 ### Basic Conversion:
@@ -103,16 +48,25 @@ Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
 
-## 🛠️ Technical Features
+## 🧩 Project Files
 
-- **DOM Manipulation** for dynamic content updates
-- **CSS Animations** for smooth visual effects
-- **Event Listeners** for interactive functionality
-- **CSS Grid & Flexbox** for responsive layouts
-- **CSS Custom Properties** for consistent theming
-- **Form Validation** for data integrity
-- **Glass Morphism** with backdrop filters
-- **Gradient Backgrounds** with particle effects
+| File | Description |
+|------|-------------|
+| `index.html` | Application structure and semantic markup |
+| `script.js` | Conversion logic and validation system ⚙️ |
+| `styles.css` | Modern gradient styling with CSS variables 🎨 |
+
+---
+
+## 🧰 Installation & Usage
+
+### 1️⃣ Clone this repo
+```
+git clone git@github.com:acheronx0577/JavaScript-Build-a-Roman-Numeral-Converter-Project.git
+```
+
+### 2️⃣ Run the file
+Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
 
@@ -123,18 +77,6 @@ Just open `index.html` in your favorite browser 🌐 and start playing!
 - **Input Validation**: `parseInt()`, conditional checks, range validation
 - **Conditional Logic**: Handling specific conversion cases
 - **Error Handling**: User-friendly validation messages
-
----
-
-## 📱 Responsive Design
-
-The application is fully responsive and works seamlessly on:
-
-- **Desktop computers** (1200px+)
-- **Laptops** (992px - 1199px)
-- **Tablets** (768px - 991px)
-- **Mobile phones** (480px - 767px)
-- **Small mobile devices** (below 480px)
 
 ---
 
