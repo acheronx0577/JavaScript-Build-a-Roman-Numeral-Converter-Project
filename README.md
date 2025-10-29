@@ -48,16 +48,6 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Build-a-Roman-Numeral-Conve
 
 ---
 
-## 🧩 Project Files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Application structure and semantic markup |
-| `script.js` | Conversion logic and validation system ⚙️ |
-| `styles.css` | Modern gradient styling with CSS variables 🎨 |
-
----
-
 ## 🧰 Installation & Usage
 
 ### 1️⃣ Clone this repo
